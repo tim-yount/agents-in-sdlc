@@ -1,8 +1,9 @@
 ---
 title: "Lição 0: Pré-requisitos"
+description: "Crie sua cópia do Tailspin Toys e prepare um GitHub Codespace para o workshop do Copilot CLI."
 authors:
   - geektrainer
-lastUpdated: 2026-06-30
+lastUpdated: 2026-09-18
 ---
 
 Antes de começar as lições do Copilot CLI, você precisa deixar tudo pronto. Você criará sua própria cópia do repositório Tailspin Toys e iniciará um [codespace][codespaces], cujo terminal integrado será usado para instalar e executar o Copilot CLI na próxima lição.
@@ -14,11 +15,7 @@ Para criar uma cópia do repositório para o código que você desenvolverá, cr
 1. Em uma nova janela do navegador, acesse o repositório do GitHub deste laboratório: `https://github.com/github-samples/tailspin-toys`.
 2. Crie sua própria cópia do repositório selecionando o botão **Use this template** na página do repositório do laboratório. Em seguida, selecione **Create a new repository**.
 
-    ![Botão Use this template](../../../_images/ex0-use-template.png)
-
 3. Se você estiver fazendo o workshop como parte de um evento conduzido pelo GitHub ou pela Microsoft, siga as instruções fornecidas pelas pessoas mentoras. Caso contrário, crie o novo repositório em uma organização na qual você tenha acesso ao GitHub Copilot.
-
-    ![Preencha as configurações do repositório criado a partir do modelo](../../../_images/ex0-repository-settings.png)
 
 4. Anote o caminho do repositório que você criou (**organization-or-user-name/repository-name**), pois você o usará mais adiante no laboratório.
 
@@ -36,11 +33,7 @@ O [GitHub Codespaces][codespaces] é um ambiente de desenvolvimento baseado em n
 1. Acesse o repositório que você acabou de criar.
 2. Selecione o botão verde **Code**.
 
-    ![Selecione o botão Code](../../../_images/ex0-code-button.png)
-
 3. Selecione a guia **Codespaces** e depois selecione o botão **+** para criar um novo codespace.
-
-    ![Criar um novo codespace](../../../_images/ex0-create-codespace.png)
 
 A criação do codespace levará alguns minutos, embora ainda seja muito mais rápida do que instalar todos os serviços manualmente. Enquanto isso, você pode explorar outros recursos do GitHub Copilot, que veremos a seguir.
 
